@@ -1,4 +1,5 @@
-**Predictive Analytics for Employee Performance in IT Industry**
+****Predictive Analytics for Employee Performance in IT Industry****
+
 **Project Overview**
 This project leverages machine learning and data analytics techniques to predict employee performance within the IT industry. By analyzing various employee-related data such as work hours, project completion rates, feedback scores, and other relevant features, the model aims to provide insights and accurate predictions that can assist HR and management teams in making data-driven decisions for talent management, training, and resource allocation.
 
@@ -16,4 +17,10 @@ Jupyter Notebook for experimentation and analysis
 Optionally, Streamlit for creating a simple web app interface
 
 **live demo link**: https://employee-performance-predictor-wi7n.onrender.com
+
+
+
+
+
+
 
